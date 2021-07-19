@@ -1,1 +1,1 @@
-*This file is mandatory in all HEX project*
+***This file is mandatory in all HEX project*
